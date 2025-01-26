@@ -1,5 +1,9 @@
 
 h1{
-    background-color: rgb(194, 83, 83);
+   font-size: 50px;
     display: inline-grid;
+}
+body{
+    background-color: antiquewhite;
+    text-align: center;
 }
